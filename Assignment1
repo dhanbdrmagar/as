@@ -6,7 +6,7 @@ using System;
 
 
 
-namespace MyApplication
+namespace Tigers soccer Club
 
 
 
@@ -98,7 +98,7 @@ namespace MyApplication
 
 
 
-                    total_price = 150 + 100;
+                    total_price = 350 + 100;
 
 
 
