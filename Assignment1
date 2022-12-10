@@ -6,7 +6,7 @@ using System;
 
 
 
-namespace Tigers soccer Club
+namespace KOI soccer Club
 
 
 
@@ -14,7 +14,7 @@ namespace Tigers soccer Club
 
 
 
-    class Player
+    class KOI Player
 
 
 
